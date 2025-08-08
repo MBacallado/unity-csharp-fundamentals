@@ -23,3 +23,13 @@ Each script file demonstrates one key concept of C# programming in Unity:
 - `ExplainArrays.cs`
 - `ExplainClasses.cs`
 - `ExplainDataStructures.cs`
+
+---
+
+## 👨‍🏫 Instructor
+
+Developed and taught by **Manuel Bacallado**. 
+
+## 🔍 Keywords (for discoverability)
+
+Unity · C# · Programming · Game Development · Beginners · Scripting · Code Examples · Educational Project.
